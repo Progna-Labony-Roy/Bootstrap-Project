@@ -1,0 +1,179 @@
+/* ------google fonts------ */
+.font-roboto
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+.yesteryear
+{
+    font-family: 'Yesteryear', cursive;
+}
+
+/* ---------------------- */
+
+
+
+
+/* ------------Navbar--------------- */
+.header
+{
+    overflow:hidden;
+}
+
+
+.size
+{
+    font-size: 16px;
+}
+/* --------------------- */
+
+
+
+/* --------section-one--------- */
+.bg-image
+{
+    background-image: url("megh.png");
+background-repeat: no-repeat;
+background-size: 88% 48%;
+background-position: 61px 53px;
+}
+
+.row-height
+{
+    height: 500px;
+}
+
+
+.text-padding
+{
+    padding-top: 150px;
+}
+
+
+.padding-left
+{
+    padding-left: 75px;
+}
+
+
+.text
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 85px;
+}
+
+
+
+.text-size
+{
+    font-size: 12px;
+}
+
+
+.vl {
+    border-left: 1px solid black;
+    height: 110px;
+    position: absolute;
+    left: 95%;
+    margin-left: -3px;
+    top: 0;
+  }
+/* ------------------------- */
+
+
+
+/* --------------section-two-------------- */
+.row-padding
+{
+    padding: 60px;
+}
+
+
+.icons{
+    float:left;
+    overflow: hidden;
+}
+
+
+.pad-top
+{
+    padding-top: 20px;
+}
+
+
+/* ---------------------------------- */
+.section
+{
+    margin: unset;
+    padding: unset;
+    border-radius: unset;
+}
+
+
+.card-one
+{
+    position: relative;
+    border-radius: unset;
+}
+
+.hover
+{
+    position: absolute;
+    background-color:#a29bfe ;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    opacity: 0;
+    transition: 1s;
+}
+
+.card:hover .hover
+{
+    opacity:1;
+}
+
+/* ----------------Div four----------------- */
+
+.sign
+{
+    font-size: 10x;
+}
+
+
+.cont-text
+{
+    max-width: 70%;
+    font-size: 15px;
+    padding: 80px;
+}
+
+
+
+/* ----------------Div six------------------- */
+.cont-six
+{
+    max-width: 60%;
+    padding: 80px;
+    
+}
+
+
+.f-size
+{
+    font-size: 15px;
+}
+
+
+/* ---------------Footer---------------- */
+.copyright
+{
+    font-size: 10px;
+}
+
+
+
